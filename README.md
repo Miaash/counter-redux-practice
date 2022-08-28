@@ -1,4 +1,4 @@
-# react-b61wy6
+# simple redux practice
 
 Redux를 사용하기 위해서는 redux와 react-redux를 설치해야합니다.
 
